@@ -1,6 +1,5 @@
 package com.mehrabi.springeventexamples.customevnet;
 
-import com.mehrabi.springeventexamples.customevnet.CustomSpringEventPublisher;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
